@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KGNouran 
-- 👀 I’m interested in Datamanagement and Softwareengineering 
-- 🌱 I’m currently learning dart while trying to create an app for a coffee shop (not the amsterdam kind of coffee shop)
-- 👨‍💻 I'm knowledgeable in Java and Python 
-- 📫 If you want to reach me: https://www.linkedin.com/in/khashayar-ghanbari-nouran-086756235
+interested in data management and data analytics
+worked for a web dev company
+
+I'm knowledgeable and worked with Python, SQL, R, HTML, CSS, JavaScript and Dart/Flutter
 
 <!---
 KGNouran/KGNouran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
